@@ -1,0 +1,95 @@
+#mobile-outline {
+   outline: 20px solid #333;
+   width: 442px;
+   margin: 20px auto 20px auto;
+   border-radius: 10px;
+} 
+
+#main-header {
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(255, 123, 46);
+}
+
+#logobox {
+   background-color: white;
+   padding: 15px;
+   border-radius: 15px;
+   font-family: "Irish Grover", Arial, Helvetica, sans-serif;
+   color: rgb(255, 123, 46);
+   font-size: 36px;
+}
+
+.main-body {
+   background-color: rgb(255, 205, 173);
+   padding-top: 20px;
+}
+
+.heroimg {
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.doubleimages {
+   display: flex;
+   gap: 30px;
+   justify-content: center;
+}
+
+#centerimg1 {
+   display: block;
+   margin-left: 88px;
+   margin-right: 88px;
+}
+
+#centerimg2 {
+   display: block;
+   margin-left: 88px;
+   margin-right: 88px;
+}
+
+#whatsnext {
+   margin-top: 20px;
+   margin-bottom: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(255, 123, 46);
+}
+
+#whatsnexttext {
+   background-color: white;
+   padding: 15px;
+   border-radius: 15px;
+   font-family: "Irish Grover", Arial, Helvetica, sans-serif;
+   color: rgb(255, 123, 46);
+}
+
+#footer {
+   padding-top: 20px;
+   background-color: rgb(255, 205, 173);
+}
+
+.paragraphtext {
+   font-family: "PT Sans Narrow", Arial, Helvetica, sans-serif;
+   color: rgb(56, 27, 10);
+   font-size: 17px;
+}
+
+.footercon {
+   position: relative;
+   text-align: center;
+   color: white;
+}
+
+.contacttext {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-family: "Irish Grover", Arial, Helvetica, sans-serif;
+   color: white;
+   font-size: 20px;
+}
